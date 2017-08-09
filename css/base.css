@@ -3,3 +3,8 @@ p{
     height: 300px;
     border: 1px solid blue;
 }
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
